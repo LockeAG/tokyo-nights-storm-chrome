@@ -1,0 +1,248 @@
+{
+  "manifest_version": 3,
+  "name": "Tokyo Night Storm Theme",
+  "version": "1.0.0",
+  "description": "Elegant dark theme inspired by Tokyo's night storms. Features soothing blues and purples for a calming browsing experience.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png",
+    "256": "icon256.png",
+    "512": "icon512.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        26,
+        27,
+        38
+      ],
+      "toolbar": [
+        36,
+        40,
+        59
+      ],
+      "ntp_text": [
+        169,
+        177,
+        214
+      ],
+      "ntp_link": [
+        125,
+        207,
+        255
+      ],
+      "ntp_section": [
+        36,
+        40,
+        59
+      ],
+      "button_background": [
+        90,
+        100,
+        141
+      ],
+      "toolbar_button_icon": [
+        169,
+        177,
+        214
+      ],
+      "toolbar_text": [
+        169,
+        177,
+        214
+      ],
+      "omnibox_background": [
+        26,
+        27,
+        38
+      ],
+      "omnibox_text": [
+        169,
+        177,
+        214
+      ],
+      "tab_text": [
+        169,
+        177,
+        214
+      ],
+      "tab_background_text": [
+        103,
+        110,
+        149
+      ],
+      "bookmark_text": [
+        169,
+        177,
+        214
+      ],
+      "frame_inactive": [
+        31,
+        32,
+        46
+      ],
+      "frame_incognito": [
+        36,
+        40,
+        59
+      ],
+      "frame_incognito_inactive": [
+        41,
+        46,
+        66
+      ],
+      "background_tab": [
+        31,
+        32,
+        46
+      ],
+      "background_tab_inactive": [
+        26,
+        27,
+        38
+      ],
+      "background_tab_incognito": [
+        36,
+        40,
+        59
+      ],
+      "background_tab_incognito_inactive": [
+        31,
+        32,
+        46
+      ],
+      "tab_background_text_inactive": [
+        103,
+        110,
+        149
+      ],
+      "tab_background_text_incognito": [
+        169,
+        177,
+        214
+      ],
+      "tab_background_text_incognito_inactive": [
+        103,
+        110,
+        149
+      ],
+      "bookmark_bar_background": [
+        26,
+        27,
+        38
+      ],
+      "bookmark_bar_text": [
+        169,
+        177,
+        214
+      ],
+      "ntp_background": [
+        26,
+        27,
+        38
+      ],
+      "ntp_header": [
+        36,
+        40,
+        59
+      ],
+      "control_background": [
+        26,
+        27,
+        38
+      ],
+      "button_background_hover": [
+        41,
+        46,
+        66
+      ],
+      "button_background_active": [
+        187,
+        154,
+        247
+      ],
+      "toolbar_button_icon_highlight": [
+        187,
+        154,
+        247
+      ],
+      "toolbar_button_icon_highlight_active": [
+        125,
+        207,
+        255
+      ],
+      "popup": [
+        26,
+        27,
+        38
+      ],
+      "popup_text": [
+        169,
+        177,
+        214
+      ],
+      "popup_border": [
+        36,
+        40,
+        59
+      ],
+      "popup_highlight": [
+        187,
+        154,
+        247
+      ],
+      "popup_highlight_text": [
+        26,
+        27,
+        38
+      ],
+      "toolbar_top_separator": [
+        36,
+        40,
+        59
+      ],
+      "toolbar_bottom_separator": [
+        36,
+        40,
+        59
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.33,
+        0.5,
+        0.47
+      ],
+      "frame": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_incognito": [
+        -1,
+        -1,
+        0.2
+      ],
+      "frame_incognito_inactive": [
+        -1,
+        -1,
+        0.3
+      ],
+      "background_tab": [
+        -1,
+        -1,
+        0.5
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
