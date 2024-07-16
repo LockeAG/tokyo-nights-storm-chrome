@@ -8,9 +8,9 @@ An elegant dark theme inspired by Tokyo's night storms. Features soothing blues 
 
 ## Make your environmert in Tokyo Night
 
-- ** nvim ** : https://github.com/folke/tokyonight.nvim
-- ** tmux ** : https://github.com/janoamaral/tokyo-night-tmux
-- ** Alacritty ** : https://github.com/LockeAG/dotfiles-public/blob/main/.alacritty/themes/tokyo-nights-storm.toml
+- **nvim** : https://github.com/folke/tokyonight.nvim
+- **tmua** : https://github.com/janoamaral/tokyo-night-tmux
+- **Alacritty** : https://github.com/LockeAG/dotfiles-public/blob/main/.alacritty/themes/tokyo-nights-storm.toml
 
 ## Features
 
