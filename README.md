@@ -6,6 +6,12 @@
 
 An elegant dark theme inspired by Tokyo's night storms. Features soothing blues and purples for a calming browsing experience.
 
+## Make your environmert in Tokyo Night
+
+** nvim ** : https://github.com/folke/tokyonight.nvim
+** tmux ** : https://github.com/janoamaral/tokyo-night-tmux
+** Alacritty ** : https://github.com/LockeAG/dotfiles-public/blob/main/.alacritty/themes/tokyo-nights-storm.toml
+
 ## Features
 
 - **Dark and Elegant Design**: Inspired by Tokyo's neon-lit nights and stormy ambiance.
