@@ -1,10 +1,16 @@
 # Tokyo Night Storm Theme
 
+<p align="center">
 ![Tokyo Night Storm Theme](icon512.png)
+</p>
 
 **Version 1.0.0**
 
 An elegant dark theme inspired by Tokyo's night storms. Features soothing blues and purples for a calming browsing experience.
+
+## Chrome Web Store
+
+[Download from Chrome Web Store](https://chromewebstore.google.com/detail/pgbjifpikialeahbdendkjioeafbmfkne)
 
 ## Make your environment Tokyo Night
 
