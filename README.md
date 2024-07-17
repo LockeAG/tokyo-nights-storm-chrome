@@ -10,7 +10,7 @@ An elegant dark theme inspired by Tokyo's night storms. Features soothing blues 
 
 ## Chrome Web Store
 
-[Download from Chrome Web Store](https://chromewebstore.google.com/detail/pgbjifpikialeahbdendkjioeafbmfkne)
+[Download from Chrome Web Store](https://chromewebstore.google.com/detail/tokyo-night-storm-theme/pgbjifpikialeahbdendkjioeafbmfkn)
 
 ## Make your environment Tokyo Night
 
