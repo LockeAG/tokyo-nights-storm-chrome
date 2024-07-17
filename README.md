@@ -1,7 +1,7 @@
 # Tokyo Night Storm Theme
 
 <p align="center">
-![Tokyo Night Storm Theme](icon512.png)
+<img src"icon512.png" alt="Tokyo Night Storm Theme" width="256" height="256">
 </p>
 
 **Version 1.0.0**
