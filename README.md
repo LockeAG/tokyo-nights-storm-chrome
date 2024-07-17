@@ -20,10 +20,10 @@ An elegant dark theme inspired by Tokyo's night storms. Features soothing blues 
 - **Slack**:
 
 ```
-  - System Navigation:`#2840A9`
-  - Selected Items:`#7D95EB`
-  - Presence indication: `#3651C0`
-  - Notifications: `#2840A9`
+   System Navigation: #2840A9
+   Selected Items: #7D95EB
+   Presence indication: #3651C0
+   Notifications: #2840A9
 ```
 
 - **VSCode**: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
