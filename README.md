@@ -1,7 +1,7 @@
 # Tokyo Night Storm Theme
 
 <p align="center">
-<img src"https://github.com/LockeAG/tokyo-nights-storm-chrome/blob/main/icon512.png" alt="Tokyo Night Storm Theme" width="256" height="256">
+<img src="https://github.com/LockeAG/tokyo-nights-storm-chrome/blob/main/icon512.png" alt="Tokyo Night Storm Theme" width="256" height="256" />
 </p>
 
 **Version 1.0.0**
