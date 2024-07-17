@@ -18,10 +18,10 @@ An elegant dark theme inspired by Tokyo's night storms. Features soothing blues 
 - **tmux** : https://github.com/janoamaral/tokyo-night-tmux
 - **Alacritty** : https://github.com/LockeAG/dotfiles-public/blob/main/.alacritty/themes/tokyo-nights-storm.toml
 - **Slack**:
-  System Navigation:`#2840A9`  
-  Selected Items:`#7D95EB`
-  Presence indication: `#3651C0`
-  Notificatons: `#2840A9`
+- System Navigation:`#2840A9`
+- Selected Items:`#7D95EB`
+- Presence indication: `#3651C0`
+- Notificatons: `#2840A9`
 - **VSCode**: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 - **Zed** : https://github.com/ssaunderss/zed-tokyo-night/
 - **Obsidian** : https://github.com/arozx/obsidian_tokyo-night-storm
